@@ -1,0 +1,2 @@
+markers plugins/HMMER/example/marker.hmm 
+fragments plugins/HMMER/example/output.contig.tmp.frag.faa

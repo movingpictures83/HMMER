@@ -1,0 +1,2 @@
+Prefix plugins/HMMER/example
+Plugin HMMER inputfile parameters.txt outputfile output.contig.tmp.hmmout
