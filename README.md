@@ -2,7 +2,7 @@
 # Language: C++
 # Input: TXT
 # Output: TXT
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Tested with: PluMA 1.1, GCC 4.8.4
 # Dependency: HMMER 3.1b1
 
 PluMA plugin to interface to HMMER (Finn et al, 2011).
