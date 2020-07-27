@@ -19,7 +19,6 @@ void HMMERPlugin::run() {}
 
 void HMMERPlugin::output(std::string file) {
  std::string outputfile = file;
-//auxiliary/hmmer-3.1b1/src/hmmsearch --domtblout output.contig.tmp.hmmout --cut_tc --cpu 1 /disk/castalia/lclhome/tcickovs/tools/maxbin-code/marker.hmm output.contig.tmp.frag.faa 1>output.contig.tmp.hmmout.out 2>output.contig.tmp.hmmout.err
  std::string myCommand = "";
 myCommand +=  "hmmsearch";
 ///myCommand += " --domtblout ";
